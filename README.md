@@ -203,6 +203,9 @@ python -m agent.aiagent
 ```
 
 ## Expected Results
+
+![image](Agent_results.JPG)
+
 After successful completion:
 * GET /customers/{14429} → Shows updated LeadStatus
 * GET /tasks → Returns 4 follow-up tasks
